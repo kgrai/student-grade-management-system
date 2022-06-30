@@ -1,0 +1,61 @@
+
+.navbar {
+    padding: 0 5%;
+    margin:0  !important ;
+  }
+  
+  
+  .sgpa{
+      margin-top: 2%;
+  }
+  
+  .text-center{
+      margin-top:2%;
+  }
+  
+  
+  
+  .col{
+      margin-bottom: 1%;
+  }
+  
+  
+  .btn{
+      margin-top:2%;
+      width:30%;
+      margin-bottom: 2%;
+  
+  }
+
+
+@media only screen and (max-width: 600px) {
+.navbar {
+  padding: 0 5%;
+}
+
+
+.sgpa{
+    margin-top: 5%;
+}
+
+.text-center{
+    margin-top:5%;
+}
+
+
+
+.col{
+    margin-bottom: 5%;
+}
+
+
+.btn{
+    margin-top:5%;
+    width:80%;
+    margin-bottom: 5%;
+
+}
+
+}
+
+
